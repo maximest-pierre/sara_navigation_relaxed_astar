@@ -26,6 +26,7 @@
 
   <export>
     
+    <nav_core plugin="${prefix}/relaxed_astar_planner_plugin.xml">
 
   </export>
 </package>
